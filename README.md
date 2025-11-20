@@ -17,9 +17,9 @@ This repository contains my progress, experiments, notebooks and reflections as 
 
 Here are some of the resources I’m currently using:
 
-- YouTube series: [“oDAPkZ53zKk…”](https://www.youtube.com/watch?v=oDAPkZ53zKk&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=25)
-- Playlist: [“PLhx4zaYkEjI9kTHTV34iQqRcFoO8Rvux-V”](https://youtube.com/playlist?list=PLhx4zaYkEjI9kTHTV34iQqRcFoO8RvuxV&si=cbN5SGYuthJ0AOG5)
-- …and other random resources I’ll add as I go.
+- YouTube series: [“Deep Learning With Tensorflow 2.0, Keras and Python”](https://www.youtube.com/watch?v=oDAPkZ53zKk&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=25)
+- Playlist: [“Introduction to Artificial Neural Networks and Deep Learning”](https://youtube.com/playlist?list=PLhx4zaYkEjI9kTHTV34iQqRcFoO8RvuxV&si=cbN5SGYuthJ0AOG5)
+- …and other random resources and I’ll add as I go.
 
 ---
 
